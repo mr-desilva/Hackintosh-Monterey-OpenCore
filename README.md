@@ -37,6 +37,10 @@
 
 ----------
 You will required to boot the macOS from the bootable drive always. In this way windows can't make any changes to the macOS bootloader.  Once the macOS is loaded you can unplug the usb and continue as usual.
+# Wifi with WPA2 Enterprise
+WPA2 Enterprise is not supported by itlwm, if you are going to use the hackintosh with a institutional wifi you may use Airportitlwm.kext. Download using this link. [OpenintelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm) . Download the stable version. Also download the [OpenintelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort).
+
+Make sure you update the config.plist file after adding the kext.
 
 
 
