@@ -43,6 +43,18 @@ WPA2 Enterprise is not supported by itlwm, if you are going to use the hackintos
 Make sure you update the config.plist file after adding the kext.
 
 
+----------
+# Adding a Kext file
+
+When you added a kext file to the `EFI > OC > Kext` folder, you need to update the config.plist file with necessary changes. You can use the [PlistEditor Pro](https://www.fatcatsoftware.com/plisteditpro/) or similar software.
+
+For a example if you want to add the `CodecCommander.kext` to your EFI  partition. You can follow bellow steps.
+
+1. Step 1 - place the kext file in the correct folder. `EFI > OC > Kext`
+<img src="https://github.com/mr-desilva/6COSC019C-Cyber-Security/blob/main/images/step1.png" width="712" height="465">
+2. second
+3. third
+
 
 
 
