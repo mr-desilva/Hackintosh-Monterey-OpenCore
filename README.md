@@ -52,8 +52,16 @@ For a example if you want to add the `CodecCommander.kext` to your EFI  partitio
 
 1. Step 1 - place the kext file in the correct folder. `EFI > OC > Kext`
 <img src="https://github.com/mr-desilva/Hackintosh-Ventura-OpenCore/blob/main/images/step1.png" width="712" height="465">
-2. second
-3. third
+2. second - locate the config.plist file and open it with a editor.
+<img src="https://github.com/mr-desilva/Hackintosh-Ventura-OpenCore/blob/main/images/step2.png" width="712" height="465">
+3. third - Go to `Root > Kernal > Add` and duplicate a entry.
+<img src="https://github.com/mr-desilva/Hackintosh-Ventura-OpenCore/blob/main/images/step3.png" width="712" height="465">
+4. fourth - Here we duplicate entry 30 and edit the 31 entry for the codeCommander
+<img src="https://github.com/mr-desilva/Hackintosh-Ventura-OpenCore/blob/main/images/step4.png" width="712" height="465">
+5. Save the file and restart the system.
+
+----------
+
 
 
 
