@@ -1,4 +1,4 @@
-# Hackintosh-Ventura-OpenCore
+# Hackintosh-Monetary-OpenCore
  Acer-Swift3-SF31552G Hackintosh Ventura Guide using Opencore. You can dual boot both windows and macOS using this guide seamlessly. Kext and patches may different from laptop model, I recommend you to follow [OpenCore Guide](https://dortania.github.io/OpenCore-Install-Guide/) to understand your hardware and gather necessary files.
 
 <img src="https://github.com/mr-desilva/Hackintosh-Ventura-OpenCore/blob/main/images/home.png">
