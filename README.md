@@ -45,6 +45,11 @@ WPA2 Enterprise is not supported by itlwm, if you are going to use the hackintos
 Make sure you update the config.plist file after adding the kext.
 
 
+
+# Audio support on ALC 256
+Realtek alc 256 seems to be having a very unique amplifier and gain setup which is hard to fix. Most of the fourms suggest that `layout-id 69` . But it did not worked in my setup. Only supported `layout-id 66` is with my setup. So I highly suggest you to try out all the possible layout-id for your machine when configuring the audio.
+
+
 ----------
 # Adding a Kext file
 
